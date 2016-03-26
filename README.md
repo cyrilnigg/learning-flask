@@ -6,4 +6,6 @@ Uses:
 	Flask
 	Python
 	Heroku
-	SQL
+	MongoDB (instead of Postgres)
+
+
